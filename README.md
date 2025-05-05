@@ -23,3 +23,6 @@
 ### Steps taken to resolve the conflicts-
 #### 1. reviewed the changes in the github editor
 #### 2. removed the previous content and kept the new text from the incoming branch
+
+## Branch graph
+![alt text](image.png)
